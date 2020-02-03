@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/org/o7planning/security/web/app/filter/SecurityFilter.java=UTF-8
+encoding//src/org/o7planning/security/web/app/request/UserRoleRequestWrapper.java=UTF-8
+encoding//src/org/o7planning/security/web/app/servlet/LoginServlet.java=UTF-8
+encoding//src/org/o7planning/security/web/app/utils/AppUtils.java=UTF-8
